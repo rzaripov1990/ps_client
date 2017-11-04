@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PS-Client</string>
+    <string name="title_home">Вы не авторизованы</string>
+    <string name="prepay">Предоплата</string>
+    <string name="credit">Кредит</string>
+    <string name="my_domains">Мои домены</string>
+    <string name="my_products">Мои продукты</string>
+</resources>
